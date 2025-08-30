@@ -25,8 +25,9 @@ The purpose of this project is to provide a deeper understanding of how transfor
 1. Clone this repository:
    ```bash
    git clone https://github.com/your-username/transformer-simulation.git
-2. Open the project_Transformator.m file in MATLAB.
-3. Run the simulation to see results and plots.
+2. Extract the file
+3. Open the project_Transformator.m file in MATLAB.
+4. Run the simulation to see results and plots.
 
 ##Through this project, we learned:
 
